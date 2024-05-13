@@ -18,11 +18,11 @@ jobs:
         with:
           entrypoint: mkdocs
           args: build --config-file=config/de/mkdocs.yml
-      # - name: Build EN docs
-      #   uses: ./
-      #   with:
-      #     entrypoint: mkdocs
-      #     args: build --config-file=config/en/mkdocs.yml  
+      - name: Build EN docs
+        uses: ./
+        with:
+          entrypoint: mkdocs
+          args: build --config-file=config/en/mkdocs.yml  
 
       # - name: Copy redirect index page
       #   run: sudo cp /index.html /site
