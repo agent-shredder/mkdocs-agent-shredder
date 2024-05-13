@@ -2,7 +2,6 @@ name: ci
 on:
   push:
     branches:
-      - master 
       - main
 permissions:
   contents: write
@@ -10,21 +9,39 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
-          python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v4
+          fetch-depth: 0
+      - name: Build DE docs
+        uses: ./
         with:
-          key: mkdocs-material-${{ env.cache_id }}
+          entrypoint: mkdocs
+          args: build --config-file=config/de/mkdocs.yml
+      # - name: Build EN docs
+      #   uses: ./
+      #   with:
+      #     entrypoint: mkdocs
+      #     args: build --config-file=config/en/mkdocs.yml  
+
+      # - name: Copy redirect index page
+      #   run: sudo cp /index.html /site
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Deploy docs to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
           path: .cache
-          restore-keys: |
-            mkdocs-material-
       - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --config-file config/de/mkdocs.yml --force
-      #- run: mkdocs gh-deploy --config-file config/en/mkdocs.yml --force
+      - run: pip install mike --force-reinstall --verbose
+      # - run: mike deploy --push --update-aliases 1.0 latest --ignore
+      # - run: mkdocs gh-deploy --force
