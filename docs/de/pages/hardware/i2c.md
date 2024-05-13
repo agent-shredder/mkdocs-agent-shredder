@@ -1,0 +1,7 @@
+# Adressen
+U3 RV3028 - 0x52
+
+U4 MAX17055 - 0x36
+
+U5 LIS3DH - 0x18
+
