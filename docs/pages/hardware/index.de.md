@@ -1,5 +1,5 @@
 # Hardware
 
-![Agent Shredder](../../../assets/images/Agent_Shredder_transp-free.png)
+![Agent Shredder](../../assets/images/Agent_Shredder_transp-free.png)
 
-[Schematic](../../../assets/agent-shredder-power.pdf)
+[Schematic](../../assets/agent-shredder-power.pdf)

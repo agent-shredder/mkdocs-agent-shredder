@@ -1,3 +1,3 @@
 
 
-![Agent Shredder](../../../assets/images/PowerHat.jpg)
+![Agent Shredder](../../assets/images/PowerHat.jpg)
