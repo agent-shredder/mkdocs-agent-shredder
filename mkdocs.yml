@@ -1,10 +1,7 @@
 site_name: 'Agent Shredder Doku'
-docs_dir: '../../docs/de'                           # Where to find the English markdown files
-site_dir: '../../generated/de'                      # Where to put the English HTML files
 
 theme:
   name: material
-  custom_dir: '../../overrides/' 
   logo: assets/images/logo.svg
   favicon: assets/images/logo.png
   language: de
@@ -29,19 +26,6 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
-
-extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de
-
-plugins:
-  - search:                                         
-      lang: de
 
 nav:
   - Applikation:
@@ -82,3 +66,20 @@ nav:
     - 5V Boost: pages/hardware/boost.md
     - Charger: pages/hardware/charger.md
     - Accelerometer: pages/hardware/accelerometer.md
+
+plugins:
+  - search:                                         
+      lang: de
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: de
+          name: German
+          build: true

@@ -1,5 +1,5 @@
 # Welcome to Agent Shredder Doku
-ENGLISH
+GERMAN
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
