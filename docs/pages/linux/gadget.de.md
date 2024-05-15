@@ -2,8 +2,7 @@
 
 # Serial
 
-`/etc/systemd/system/usbcon.service`
-```
+``` systemd title="/etc/systemd/system/usbcon.service"
 [Unit]
 Description=USB console on ttyGS0
 

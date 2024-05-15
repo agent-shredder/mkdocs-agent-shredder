@@ -1,5 +1,5 @@
 # sudoers File
-```
+``` linuxconfig title="/etc/fstab"
 # Allow members of group sudo to execute any command
 %sudo   ALL=(ALL:ALL) ALL
 
@@ -9,9 +9,9 @@ dietpi ALL=(ALL) NOPASSWD: /home/dietpi/agent-shredder-stager/scripts/as-utils
 ```
 
 # polkit für udisks
-`/etc/polkit-1/rules.d/10-udisks2.rules`
 
-```
+
+``` linuxconfig title="/etc/polkit-1/rules.d/10-udisks2.rules"
 // See the polkit(8) man page for more information
 // about configuring polkit.
 
@@ -27,29 +27,30 @@ polkit.addRule(function(action, subject) {
 });
 
 ```
-
-`groupadd storage`
-`usermod --append --groups storage dietpi`
-`systemctl restart polkit.service`
+``` shell
+groupadd storage
+usermod --append --groups storage dietpi
+systemctl restart polkit.service
+```
 
 # keyboard
 for python lib *keyboard*
 
-```
+``` shell
 sudo chmod +0666 /dev/uinput
 ```
-`/etc/udev/rules.d/12-input.rules`
-```
+
+``` linuxconfig title="/etc/udev/rules.d/12-input.rules"
 SUBSYSTEM=="input", MODE="0666" GROUP="plugdev"
 SUBSYSTEM=="misc", MODE="0666" GROUP="plugdev"
 SUBSYSTEM=="tty", MODE="0666" GROUP="plugdev"
 ```
-```
+``` shell
 loginctl terminate-user $USER
 ```
 logout/login/reboot
 
 # Groups
-```
+``` shell
 sudo usermod -a -G tty,input,disk,i2c,storage dietpi
 ```

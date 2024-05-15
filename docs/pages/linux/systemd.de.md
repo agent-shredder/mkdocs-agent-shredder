@@ -1,7 +1,7 @@
 # Agent Shredder Service
-`/etc/systemd/system/agent-shredder.service`
 
-```
+
+``` systemd title="/etc/systemd/system/agent-shredder.service"
 [Unit]
 Description=Agent Shredder
 After=local-fs.target

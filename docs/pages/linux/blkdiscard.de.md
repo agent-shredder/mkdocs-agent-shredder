@@ -1,5 +1,7 @@
 MMC CMD38
 
-`blkdiscard --secure /dev/device`
+``` shell
+blkdiscard --secure /dev/device
+```
 
 wear leveling
