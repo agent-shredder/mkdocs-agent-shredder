@@ -78,12 +78,12 @@ plugins:
       reconfigure_material: true
       reconfigure_search: true
       languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
         - locale: de
+          default: true
           name: German
+          build: true
+        - locale: en
+          name: English
           build: true
 
 markdown_extensions:
