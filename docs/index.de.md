@@ -1,17 +1,7 @@
-# Welcome to Agent Shredder Doku
-GERMAN
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Agent Shredder Dokumentation
+Dies ist die offizielle Dokumentation des SD-Karten-Shredders und Verschlüsselungsgeräts Agent Shredder. Hier wird Aufbau und Funktion der Hard- und Software erklärt. Weitere Informationen wie die Bedienungsanleitung und ein FAQ finden sich auf der [Offiziellen Website](https://www.agent-shredder.com)
 
-## Commands
+Im [Webshop](https://shop.agent-shredder.com) kann Agent Shredder und Zubehör erworben werden.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+![Agent Shredder](../assets/images/Agent_Shredder_Still2.jpg){: style="width:500px"}
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

@@ -36,10 +36,14 @@ nav:
     - Display: pages/app/display.md
     - Menü: pages/app/menu.md
     - Statusleiste: pages/app/status-bar.md
+    - Automount: pages/app/automount.md
     - Shredder: pages/app/shredder.md
     - Transfer: pages/app/transfer.md
     - Verschlüsselung: pages/app/encryption.md
     - Container: pages/app/container.md
+    - Connect: pages/app/connect.md
+    - Scripts: pages/app/scripts.md
+    - Stager: pages/app/stager.md
     - Update: pages/app/update.md
   - Linux:
     - pages/linux/index.md
@@ -48,6 +52,7 @@ nav:
     - no root: pages/linux/no-root.md
     - rsync: pages/linux/rsync.md
     - blkdiscard: pages/linux/blkdiscard.md
+    - dd: pages/linux/dd.md
     - exfat: pages/linux/exfat.md
     - gadget mode: pages/linux/gadget.md
     - systemd: pages/linux/systemd.md
@@ -68,6 +73,8 @@ nav:
     - 5V Boost: pages/hardware/boost.md
     - Charger: pages/hardware/charger.md
     - Accelerometer: pages/hardware/accelerometer.md
+  - Impressum:
+    - pages/impressum/index.md
 
 plugins:
   - search:                                         
