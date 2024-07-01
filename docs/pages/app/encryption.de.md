@@ -9,3 +9,8 @@ DEPR `rsa_pw.py`
 `gen_random.py`
 
 [LUKS / cryptsetup](../linux/cryptsetup.md)
+
+
+Public Key/Private key
+
+NaCl Lib

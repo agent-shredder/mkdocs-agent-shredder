@@ -75,6 +75,8 @@ nav:
     - Accelerometer: pages/hardware/accelerometer.md
   - Impressum:
     - pages/impressum/index.md
+  - Datenschutzerklärung:
+    - pages/datenschutz/index.md
 
 plugins:
   - search:                                         
