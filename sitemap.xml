@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/automount/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/automount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/automount/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/base/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/base/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/base/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/connect/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/connect/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/connect/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/container/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/container/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/container/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/display/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/display/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/display/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/encryption/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/encryption/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/encryption/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/graphics/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/graphics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/graphics/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/helper/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/helper/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/helper/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/menu/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/menu/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/menu/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/scripts/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/scripts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/scripts/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/shredder/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/shredder/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/shredder/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/stager/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/stager/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/stager/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/status-bar/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/status-bar/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/status-bar/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/transfer/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/transfer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/transfer/"/>
+    </url>
+    <url>
+        <loc>Nonepages/app/update/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/update/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/update/"/>
+    </url>
+    <url>
+        <loc>Nonepages/datenschutz/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/datenschutz/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/datenschutz/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/accelerometer/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/accelerometer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/accelerometer/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/battery/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/battery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/battery/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/boost/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/boost/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/boost/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/charger/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/charger/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/charger/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/fuel-gauge/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/fuel-gauge/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/fuel-gauge/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/i2c/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/i2c/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/montage/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/montage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/montage/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/nanohat-oled/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/nanohat-oled/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/nanohat-oled/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/nanopi/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/nanopi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/nanopi/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/power-hat/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/power-hat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/power-hat/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/rtc/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/rtc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/rtc/"/>
+    </url>
+    <url>
+        <loc>Nonepages/hardware/uart/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/uart/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/uart/"/>
+    </url>
+    <url>
+        <loc>Nonepages/impressum/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/impressum/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/impressum/"/>
+    </url>
+    <url>
+        <loc>Nonepages/impressum/index-old/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/impressum/index-old/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/impressum/index-old/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/blkdiscard/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/blkdiscard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/blkdiscard/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/cryptsetup/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/cryptsetup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/cryptsetup/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/dd/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/dd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/dd/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/exfat/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/exfat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/exfat/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/fstab/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/fstab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/fstab/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/gadget/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/gadget/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/gadget/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/i2c/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/i2c/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/no-root/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/no-root/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/no-root/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/rsync/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/rsync/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/rsync/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/secure-boot/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/secure-boot/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/secure-boot/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/systemd/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/systemd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/systemd/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/uboot/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/uboot/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/uboot/"/>
+    </url>
+    <url>
+        <loc>Nonepages/linux/udisks/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/udisks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/udisks/"/>
+    </url>
+    <url>
+        <loc>Noneen/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="None"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/automount/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/automount/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/automount/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/base/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/base/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/base/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/connect/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/connect/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/connect/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/container/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/container/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/container/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/display/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/display/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/display/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/encryption/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/encryption/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/encryption/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/graphics/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/graphics/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/graphics/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/helper/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/helper/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/helper/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/menu/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/menu/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/menu/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/scripts/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/scripts/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/scripts/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/shredder/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/shredder/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/shredder/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/stager/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/stager/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/stager/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/status-bar/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/status-bar/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/status-bar/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/transfer/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/transfer/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/transfer/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/app/update/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/app/update/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/app/update/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/datenschutz/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/datenschutz/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/datenschutz/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/accelerometer/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/accelerometer/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/accelerometer/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/battery/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/battery/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/battery/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/boost/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/boost/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/boost/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/charger/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/charger/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/charger/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/fuel-gauge/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/fuel-gauge/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/fuel-gauge/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/i2c/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/i2c/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/montage/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/montage/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/montage/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/nanohat-oled/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/nanohat-oled/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/nanohat-oled/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/nanopi/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/nanopi/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/nanopi/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/power-hat/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/power-hat/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/power-hat/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/rtc/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/rtc/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/rtc/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/hardware/uart/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/hardware/uart/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/hardware/uart/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/impressum/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/impressum/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/impressum/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/impressum/index-old/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/impressum/index-old/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/impressum/index-old/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/blkdiscard/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/blkdiscard/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/blkdiscard/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/cryptsetup/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/cryptsetup/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/cryptsetup/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/dd/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/dd/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/dd/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/exfat/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/exfat/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/exfat/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/fstab/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/fstab/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/fstab/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/gadget/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/gadget/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/gadget/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/i2c/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/i2c/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/no-root/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/no-root/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/no-root/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/rsync/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/rsync/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/rsync/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/secure-boot/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/secure-boot/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/secure-boot/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/systemd/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/systemd/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/systemd/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/uboot/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/uboot/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/uboot/"/>
+    </url>
+    <url>
+        <loc>Noneen/pages/linux/udisks/</loc>
+        <lastmod>2024-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/pages/linux/udisks/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonepages/linux/udisks/"/>
+    </url>
+</urlset>
